@@ -44,3 +44,14 @@
 # and add to the list the cube of each number 
 # Hint: You'll also use the append ( ) method for this script
 # See page 58 in the Python Crash Course book
+
+
+
+
+# Part 6
+# Create your own list of numbers
+# Add at least 15 numbers to your list (the numbers don't have to be in order)
+# Then use the min(), max() and sum( ) functions to find and display
+# the smallest (minimum), largest (maximum), and total of the numbers in your list
+# Print the list itself, and then print
+# the min, max and sum on separate lines
