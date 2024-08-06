@@ -54,5 +54,5 @@
 # Add at least 15 numbers to your list (the numbers don't have to be in order)
 # Then use the min( ), max( ) and sum( ) functions to find and display
 # the smallest (minimum), largest (maximum), and total of the numbers in your list
-# Print the list itself, and then print
+# Use the print ( ) function and f-strings as needed to print the list itself, and then print
 # the min, max and sum on separate lines
